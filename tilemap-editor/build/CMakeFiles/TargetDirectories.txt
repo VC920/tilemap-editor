@@ -1,3 +1,0 @@
-/home/vc/Documents/tilemap-editor/build/CMakeFiles/tilemap-editor.dir
-/home/vc/Documents/tilemap-editor/build/CMakeFiles/edit_cache.dir
-/home/vc/Documents/tilemap-editor/build/CMakeFiles/rebuild_cache.dir
